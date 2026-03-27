@@ -41,7 +41,6 @@
 | [`ripgrep-all`][ripgrep-all] | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.                                | ![_][ripgrep-all-ghst] ![_][ripgrep-all-lang] ![_][ripgrep-all-ghlc] | <img alt="ripgrep-preview" width="300" src="./screenshots/ripgrep-all.png" /> |
 |          [`sd`][sd]          | An intuitive find & replace CLI (`sed` alternative).                                                               | ![_][sd-ghst] ![_][sd-lang] ![_][sd-ghlc]                            | <img alt="sd-preview" width="300" src="./screenshots/sd.png" />               |
 |      [`trashy`][trashy]      | a cli system trash manager, alternative to rm and trash-cli                                                        | ![_][trashy-ghst] ![_][trashy-lang] ![_][trashy-ghlc]                | <img alt="trashy-preview" width="300" src="./screenshots/trashy.gif" />       |
-|       [`nless`][nless]       | A modern `less` for tabular data with vi keybindings, auto-delimiter detection, and streaming.                     | ![_][nless-ghst] ![_][nless-lang] ![_][nless-ghlc]                   | <img alt="nless-preview" width="300" src="./screenshots/nless.webp" />        |
 |      [`zoxide`][zoxide]      | A smarter `cd` command inspired by `z`.                                                                            | ![_][zoxide-ghst] ![_][zoxide-lang] ![_][zoxide-ghlc]                | <img alt="zoxide-preview" width="300" src="./screenshots/zoxide.riff" />      |
 
 <h2>Network Utils</h2>
@@ -72,6 +71,7 @@
 |       [`await`][await]       | 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination. | ![_][await-ghst] ![_][await-lang] ![_][await-ghlc]                   | <img alt="await-preview" width="300" src="./screenshots/await.gif" />         |
 |   [`hyperfine`][hyperfine]   | A command-line benchmarking tool.                                                                                  | ![_][hyperfine-ghst] ![_][hyperfine-lang] ![_][hyperfine-ghlc]       | <img alt="hyperfine-preview" width="300" src="./screenshots/hyperfine.gif" /> |
 |          [`jq`][jq]          | `sed` for JSON data.                                                                                               | ![_][jq-ghst] ![_][jq-lang] ![_][jq-ghlc]                            | <img alt="jq-preview" width="300" src="./screenshots/jq.png" />               |
+|       [`nless`][nless]       | A TUI pager for tabular data with vi keybindings, auto-delimiter detection, and streaming.                         | ![_][nless-ghst] ![_][nless-lang] ![_][nless-ghlc]                   | <img alt="nless-preview" width="300" src="./screenshots/nless.webp" />        |
 
 <!--Links-->
 
