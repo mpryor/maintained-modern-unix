@@ -41,6 +41,7 @@
 | [`ripgrep-all`][ripgrep-all] | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.                                | ![_][ripgrep-all-ghst] ![_][ripgrep-all-lang] ![_][ripgrep-all-ghlc] | <img alt="ripgrep-preview" width="300" src="./screenshots/ripgrep-all.png" /> |
 |          [`sd`][sd]          | An intuitive find & replace CLI (`sed` alternative).                                                               | ![_][sd-ghst] ![_][sd-lang] ![_][sd-ghlc]                            | <img alt="sd-preview" width="300" src="./screenshots/sd.png" />               |
 |      [`trashy`][trashy]      | a cli system trash manager, alternative to rm and trash-cli                                                        | ![_][trashy-ghst] ![_][trashy-lang] ![_][trashy-ghlc]                | <img alt="trashy-preview" width="300" src="./screenshots/trashy.gif" />       |
+|       [`nless`][nless]       | A modern `less` for tabular data with vi keybindings, auto-delimiter detection, and streaming.                     | ![_][nless-ghst] ![_][nless-lang] ![_][nless-ghlc]                   | <img alt="nless-preview" width="300" src="./screenshots/nless.webp" />        |
 |      [`zoxide`][zoxide]      | A smarter `cd` command inspired by `z`.                                                                            | ![_][zoxide-ghst] ![_][zoxide-lang] ![_][zoxide-ghlc]                | <img alt="zoxide-preview" width="300" src="./screenshots/zoxide.riff" />      |
 
 <h2>Network Utils</h2>
@@ -262,6 +263,13 @@
 [lsd-ghst]: https://img.shields.io/github/stars/Peltoche/lsd
 [lsd-ghlc]: https://img.shields.io/github/last-commit/Peltoche/lsd?label=
 [lsd-lang]: https://img.shields.io/github/languages/top/Peltoche/lsd
+
+<!--nless -->
+
+[nless]: https://github.com/mpryor/nothing-less
+[nless-ghlc]: https://img.shields.io/github/last-commit/mpryor/nothing-less?label=
+[nless-ghst]: https://img.shields.io/github/stars/mpryor/nothing-less
+[nless-lang]: https://img.shields.io/github/languages/top/mpryor/nothing-less
 
 <!--mcfly -->
 
